@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.129">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getAllBooking"
+                time="2.129"
+                classname="automation.sdet.backend.dpdemo.crud.GET.GETRequestNonBDDTestNg">
+            </testcase>
+</testsuite>
